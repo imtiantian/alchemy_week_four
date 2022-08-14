@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input{
+    width: 500px;
+    background: beige;
+    border: 1px solid #eee;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 10px 0;
+}
